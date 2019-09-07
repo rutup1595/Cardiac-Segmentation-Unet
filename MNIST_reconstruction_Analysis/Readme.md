@@ -11,5 +11,9 @@ The jupyter notebook consists of the code and explaination of the approach and r
 The images below are tensorboard results which show the loss curves during the training . 
 MSE and triplet loss was used for the purpose of reconstruction and inter class resemblance and clustering respectively.
 ![image](Screenshotloss.png)
+The below images are from autoencoder network reconstruction network with triplet loss and mse loss. 
+![image](Screenshot_recon.png)
+
+![image](Screenshot_orig.png)
 
 
